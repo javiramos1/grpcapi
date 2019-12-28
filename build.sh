@@ -1,0 +1,1 @@
+protoc grpcapi.proto --go_out=plugins=grpc:.
